@@ -1,4 +1,4 @@
-# classical-machine-learning
+# Clustering Digits using Chaincode and Centroid Feature Extraction Methods
 
 # Centroid
  In the centroid method for feature extraction in images, the main image is divided into smaller regions or segments, and the centroid of each region is calculated. These centroids are then used as features to feed into a machine learning model for tasks such as image classification, object recognition, or texture analysis.
